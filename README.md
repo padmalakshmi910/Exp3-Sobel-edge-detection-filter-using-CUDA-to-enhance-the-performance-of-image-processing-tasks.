@@ -161,6 +161,12 @@ int main() {
 
 ## OUTPUT:
 
+# Original image:
+
+<img width="596" height="335" alt="images" src="https://github.com/user-attachments/assets/64575760-b828-4d95-b9f2-d418c6c84f67" />
+
+# Edge detection:
+
 <img width="755" height="457" alt="image" src="https://github.com/user-attachments/assets/a697e5f3-fa5c-4eb5-adec-b3acacb8defe" />
 
 
